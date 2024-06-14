@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Volume calculator</string>
+    <string name="shape_image">shape_image</string>
+    <string name="textview_textview">textview textview</string>
 </resources>
